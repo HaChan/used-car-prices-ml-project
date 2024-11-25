@@ -50,3 +50,7 @@ Run the image:
 ```
 docker run --rm -p 5000:5000 predict-car-price
 ```
+
+# Result
+
+![](request.png)
